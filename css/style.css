@@ -1,3 +1,18 @@
+body{
+    background: darkviolet;
+}
+
+main {
+    width: 1200px;
+    height: 800px;
+
+}
+
+h1{
+    color: white;
+}
+
 p {
-    background: hotpink
+    border: 1px solid white;
+    background: hotpink;
 }
